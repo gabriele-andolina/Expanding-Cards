@@ -22,4 +22,4 @@ Taken from the '50 Projects in 50 Days' course by Brad Traversy, available on Ud
 
 ## **Credits**
 
-The photo used in the project were taken by me during one of my China trips.
+The photos used in the project were taken by me during one of my China trips.
