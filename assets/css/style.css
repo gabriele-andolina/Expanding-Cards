@@ -14,8 +14,14 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-size: 8vh;
+    margin-left: 4vw;
+}
+
 .container {
     display: flex;
+    flex-wrap: wrap;
     width: 90vw;
 }
 
@@ -23,7 +29,7 @@ body {
     background-size: auto 100;
     background-position: center;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 70vh;
     border-radius: 50px;
     cursor: pointer;
     color: white;
@@ -48,6 +54,7 @@ body {
 
 .panel.active h3 {
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media(max-width: 480px) {
