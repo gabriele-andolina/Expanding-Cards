@@ -1,5 +1,7 @@
 # **Glimpses of China** (Expanding Cards)
 
+![GoC Project's page](/assets/images/project.png)
+
 ## **The Project**
 
 A one-page project with a title and five cards that expand on click.
